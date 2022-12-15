@@ -13,6 +13,8 @@ public class Test {
 		driver.get("branching test");
 		driver.get("git pull master update test");
 		driver.get("branching test2");
+		driver.get("git pull master update test2");
+
 
 		
 	}
