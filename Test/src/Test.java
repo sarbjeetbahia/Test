@@ -11,6 +11,7 @@ public class Test {
 		
 		driver.get("https://www.yahoo.com");
 		driver.get("branching test");
+		driver.get("git pull master update test");
 		
 	}
 
