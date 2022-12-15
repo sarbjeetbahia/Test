@@ -10,6 +10,7 @@ public class Test {
 		WebDriver driver = new SafariDriver();
 		
 		driver.get("https://www.yahoo.com");
+		driver.get("branching test");
 		
 	}
 
